@@ -6,8 +6,6 @@
 ## 準備
 
     $ npm install
-    $ npx tsc --init 
-    $ npx ts-jest config:init
 
 ## テスト
 
