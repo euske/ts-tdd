@@ -5,11 +5,15 @@
 
 ## 準備
 
+あらかじめ Node.js をインストールしておく。
+
+    $ git clone https://github.com/euske/ts-tdd
+    $ cd ts-tdd
     $ npm install
     $ npx tsc --init 
     $ npx ts-jest config:init
 
-## テスト
+## テスト実行
 
     $ npm test (あるいは npm t)
 
