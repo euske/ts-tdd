@@ -6,9 +6,9 @@ export const Throw = {
 export type Throw = typeof Throw[keyof typeof Throw]
 
 export const Result = {
-  P1Win: 0,
-  P2Win: 1,
-  Draw: 2,
+  Draw: 0,
+  P1Win: 1,
+  P2Win: 2,
 } as const
 export type Result = typeof Result[keyof typeof Result]
 

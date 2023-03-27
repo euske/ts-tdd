@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a9c24a-64b6-49cf-b488-fe6608ff5db4" name="Changes" comment="Add `tsconfig.json` and `jest.config.js`">
-      <change afterPath="$PROJECT_DIR$/src/RSP.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RSP.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sum.test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sum.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RSP.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/RSP.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Type.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679559523995</updated>
       <workItem from="1679559525419" duration="2212000" />
-      <workItem from="1679638719151" duration="2707000" />
+      <workItem from="1679638719151" duration="4220000" />
     </task>
     <servers />
   </component>

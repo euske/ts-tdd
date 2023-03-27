@@ -2,9 +2,9 @@ import {Result, Throw} from "./Type";
 import {play} from "./RSP";
 
 describe('RSP Tests', () => {
-  test('Rock(グー) vs Paper（パー）=> Paperの価値', () => {
+  test('Player1：Rock(グー) vs Player2：Scissors（チョキ）=> Player1の勝ち', () => {
     const p1 = Throw.Rock
-    const p2 = Throw.Paper
+    const p2 = Throw.Scissors
 
     const result = play(p1, p2)
 
