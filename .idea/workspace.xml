@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="46a9c24a-64b6-49cf-b488-fe6608ff5db4" name="Changes" comment="Add `tsconfig.json` and `jest.config.js`">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RSP.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/RSP.test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Type.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Jest.RSP Tests.Rock(グー) vs Paper（パー）=&gt; Paperの価値">
+  <component name="RunManager" selected="Jest.RSP Tests.Player1：Rock(グー) vs Player2：Scissors（チョキ）=&gt; Player1の勝ち">
     <configuration name="2 + 3 = 5" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -65,6 +64,20 @@
       <test-file value="$PROJECT_DIR$/src/sum.test.ts" />
       <test-names>
         <test-name value="2 + 3 = 5" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="RSP Tests.Player1：Rock(グー) vs Player2：Scissors（チョキ）=&gt; Player1の勝ち" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/RSP.test.ts" />
+      <test-names>
+        <test-name value="RSP Tests" />
+        <test-name value="Player1：Rock(グー) vs Player2：Scissors（チョキ）=&gt; Player1の勝ち" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -95,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.RSP Tests.Player1：Rock(グー) vs Player2：Scissors（チョキ）=&gt; Player1の勝ち" />
         <item itemvalue="Jest.RSP Tests.Rock(グー) vs Paper（パー）=&gt; Paperの価値" />
         <item itemvalue="Jest.2 + 3 = 5" />
       </list>
@@ -109,7 +123,8 @@
       <option name="presentableId" value="Default" />
       <updated>1679559523995</updated>
       <workItem from="1679559525419" duration="2212000" />
-      <workItem from="1679638719151" duration="4220000" />
+      <workItem from="1679638719151" duration="5954000" />
+      <workItem from="1679962508088" duration="2149000" />
     </task>
     <servers />
   </component>

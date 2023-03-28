@@ -1,14 +1,11 @@
-export const Throw = {
-  Rock: 0,
-  Scissors: 1,
-  Paper: 2,
-} as const
-export type Throw = typeof Throw[keyof typeof Throw]
+export enum Throw {
+  Rock ='ROCK',
+  Scissors = 'SCISSORS',
+  Paper = 'PAPER',
+}
 
-export const Result = {
-  Draw: 0,
-  P1Win: 1,
-  P2Win: 2,
-} as const
-export type Result = typeof Result[keyof typeof Result]
-
+export enum Result {
+  Draw ='DRAW',
+  P1Win = 'P1_WIN',
+  P2Win = 'P2_WIN',
+}
